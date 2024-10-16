@@ -1,4 +1,4 @@
-# Python-Web-Scrapers
+# Python Web Scrapers
 
 This repository is a portfolio of Various web scraping methodologies I have used and a overview of what each method entails and how to implement it step by step. The code base consists of comments and markdowns to explain codeblocks.
 
