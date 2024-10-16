@@ -17,7 +17,7 @@ This repository is a portfolio of Various web scraping methodologies I have used
 ## BeautifulSoup
 
 - GET requests -  GET requests are used by Simple scrapers similar to typing the site link and pressing enter. Can be used for static webpages. 
-	- 
+
 	- [Data Source](https://locations.traderjoes.com/)
 	- [Source Code](BeautifulSoup/Beautiful%20Soup%20-%20GET%20Requests.ipynb)
 
