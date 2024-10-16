@@ -22,12 +22,13 @@ BeautifulSoup is package in Python which helps handle data from webpages in **HT
 
 	- [Data Source](https://locations.traderjoes.com/)
 	- [Source Code](BeautifulSoup/Beautiful%20Soup%20-%20GET%20Requests.ipynb)
+	- [Scraped Data Sample - CSV](BeautifulSoup/TJ_Location.csv)
 
 - POST requests - When there is data being communicated between the frontend andd backend we can use this method. Can be used for both static and dynamic pages. 
 
 	- [Data Source](https://dashboard.udiseplus.gov.in/#/reportDashboard/state)
 	- [Source Code](BeautifulSoup/Beautiful%20Soup%20-%20POST%20Requests.ipynb)
-
+	- [Scraped Data Sample - JSON](BeautifulSoup/Schools_data.json)
 
 ## Selenium🛠
 
@@ -37,6 +38,7 @@ BeautifulSoup is package in Python which helps handle data from webpages in **HT
 
 - [Data Source](https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx)
 - [Source Code](Selenium/Selenium%20Web%20Scraper%20-%20aspx.ipynb)
+- [Scraped Data Sample - Excel](Selenium/Agriculture_Data.xlsx)
 
 ### Selecting the dates and location
 ![alt text](utils/Selenium.png)
@@ -52,6 +54,8 @@ BeautifulSoup is package in Python which helps handle data from webpages in **HT
 
 - [Data Source](https://books.toscrape.com/)
 - [Source Code](Scrapy/sampleSpider/sampleSpider/spiders/Sample_Crawler.py)
+
+![alt tex](utils/Scrapy_output.png)
 
 ### Sample Data
 ![alt text](utils/Scrapy.png)
